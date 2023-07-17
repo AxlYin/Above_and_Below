@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT License"
+
+[[mods]]
+modId="above_and_below"
+version="1.0.1"
+displayName="Above and Below"
+credits="Special thanks for the help, Stardust Labs community. Especially Apollo!"
+displayURL="https://curseforge.com/minecraft/mc-mods/above-and-below"
+logoFile="logo.png"
+authors="Axl Yin, Quidvio"
+description="Creates sky islands and bigger caves! For Minecraft 1.19.2"
+[[dependencies.above_and_below]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.above_and_below]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
