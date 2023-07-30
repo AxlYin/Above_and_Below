@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "above_and_below:tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 81346340,
+    "spread_type": "triangular",
+    "spacing": 40,
+    "separation": 10
+  }
+}

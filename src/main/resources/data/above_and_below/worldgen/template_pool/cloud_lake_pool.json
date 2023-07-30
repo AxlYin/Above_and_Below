@@ -1,0 +1,42 @@
+{
+  "name": "above_and_below:cloud_lake_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "above_and_below:lake1",
+        "processors": {
+          "processors": [
+          ]
+        }
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "above_and_below:lake2",
+        "processors": {
+          "processors": [
+          ]
+        }
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "above_and_below:lake3",
+        "processors": {
+          "processors": [
+          ]
+        }
+      }
+    }
+  ]
+}

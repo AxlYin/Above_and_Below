@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "above_and_below:cloud_lake",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1851688356,
+    "spread_type": "triangular",
+    "spacing": 50,
+    "separation": 35
+  }
+}
