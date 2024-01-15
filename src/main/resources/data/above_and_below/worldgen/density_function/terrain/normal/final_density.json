@@ -1,5 +1,15 @@
 {
   "type": "minecraft:add",
-  "argument1": "above_and_below:terrain/normal/default_clamped",
-  "argument2": "above_and_below:terrain/floating_islands"
+  "argument1": {
+    "type": "minecraft:add",
+    "argument1": "above_and_below:terrain/normal/default_clamped",
+    "argument2": "above_and_below:terrain/floating_islands"
+  },
+  "argument2": {
+    "type": "minecraft:y_clamped_gradient",
+    "from_y": 80,
+    "to_y": -64,
+    "from_value": 0,
+    "to_value": -0.025
+  }
 }
