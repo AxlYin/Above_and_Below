@@ -2,5 +2,5 @@
   "type": "forge:add_features",
   "biomes": "#minecraft:is_overworld",
   "features": "above_and_below:sky_spring",
-  "steps": "fluid_springs"
+  "step": "fluid_springs"
 }
