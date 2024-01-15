@@ -1,6 +1,6 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#minecraft:is_overworld",
+  "biomes": "minecraft:dark_forest",
   "step": "surface_structures",
   "spawn_overrides": {
     "creature": {
